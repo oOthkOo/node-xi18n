@@ -1,5 +1,7 @@
-node-xi18n
+node-xi18n 
 ==========
+
+[![SlugBay Badge](https://www.slugbay.com/pictures/badges/slugbay-simple.svg)](https://www.slugbay.com)
 
 NodeJS i18n module
 
